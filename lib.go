@@ -2,8 +2,8 @@ package lib
 
 import (
 	"github.com/sirupsen/logrus"
-	l2lib "github.com/test-network-function/l2discovery/l2lib/pkg/export"
-	"github.com/test-network-function/simplegraphsolver/pkg/export"
+	export "github.com/test-network-function/graphsolver-exports"
+	l2lib "github.com/test-network-function/l2discovery-exports"
 )
 
 var GlobalConfig = configObject{}
