@@ -3,7 +3,7 @@ module github.com/test-network-function/graphsolver-lib
 go 1.19
 
 require (
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.2
 	github.com/test-network-function/graphsolver-exports v0.0.1
 	github.com/test-network-function/l2discovery-exports v0.0.1
 )
