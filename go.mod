@@ -1,6 +1,6 @@
 module github.com/test-network-function/graphsolver-lib
 
-go 1.21
+go 1.21.2
 
 require (
 	github.com/sirupsen/logrus v1.9.3
